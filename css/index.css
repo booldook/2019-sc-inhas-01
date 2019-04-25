@@ -1,0 +1,16 @@
+.wraps {width: 100%;}
+.wrap {width: 1080px; margin: auto;}
+
+.sec_tris > li {width: 32%; height: 200px; border: 1px solid #f00; float: left;}
+.sec_tris > li:nth-child(2) {margin:0 2%;}
+
+section {margin-top: 3rem;}
+section > .sec_tit1 {font-size: 1.85rem; text-align: center;}
+section > .sec_tit2 {font-size: 0.875rem; text-align: center;}
+
+#schs {float: right; background-color: red; padding: 0.25rem 0.25rem 0.25rem 5rem;}
+
+.logos {width: 200px; float: left;  border: 1px solid #00f; height: 30px;}
+.mns { float: left; border: 1px solid #00f; height: 30px;}
+.mns > li {float:left; margin-right: 2rem;}
+.mns2 {width: 200px; float: right; border: 1px solid #00f; height: 30px;}
